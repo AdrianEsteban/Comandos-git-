@@ -1,0 +1,19 @@
+*inicilizar un repositorio en git es
+	git init
+
+*Muestra los archivos que no se han agregado al repo
+	git status
+
+*Agregar archivos al stech
+	git add *.html //agrega todos los html
+	git add --all
+	git add nombre del archivo
+
+*Agregar los archivos a un repositorio
+	git comit -m "Inicializamos el proyecto"
+
+*Muestra las modificaciones 
+	git log
+
+Muestra en donde se iso la modificacion del archivo
+ git diff 
