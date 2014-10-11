@@ -22,3 +22,10 @@
  	tener que crear un repositorio en githubcopiar y pegar los comandos que estan en la pagina a la terminal ejemplo
  		git remote add origin https://github.com/AdrianEsteban/Comandos-git-.git
 		git push -u origin master
+
+Copia de archvos o bajar los archivos de la pag
+	git clone url
+	git clone https://github.com/AdrianEsteban/Comandos-git-.git
+
+Actualizar repositorio local con la ultima actualizacion
+ git pull
