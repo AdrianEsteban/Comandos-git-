@@ -21,7 +21,7 @@
  *agrgar a github
  	tener que crear un repositorio en githubcopiar y pegar los comandos que estan en la pagina a la terminal ejemplo
  		git remote add origin https://github.com/AdrianEsteban/Comandos-git-.git
-		git push -u origin master
+		git push -u origin master // enviar a hit hub
 
 Copia de archvos o bajar los archivos de la pag
 	git clone url
